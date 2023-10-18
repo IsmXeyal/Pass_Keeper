@@ -1,0 +1,32 @@
+[
+  {
+    "First_name": "Huseyn",
+    "Last_name": "Celilov",
+    "Email": "huseyn123@gmail.com",
+    "Password": "Huseyn199"
+  },
+  {
+    "First_name": "Asem",
+    "Last_name": "Aliyev",
+    "Email": "asem123@gmail.com",
+    "Password": "Asem1998"
+  },
+  {
+    "First_name": "Xeyal",
+    "Last_name": "Ismayilov",
+    "Email": "ismxeyal2003@gmail.com",
+    "Password": "Xeyal2003"
+  },
+  {
+    "First_name": "Fidan",
+    "Last_name": "Xankisizade",
+    "Email": "fidan123@gmail.com",
+    "Password": "Fidan123"
+  },
+  {
+    "First_name": "Turan",
+    "Last_name": "Aliyev",
+    "Email": "turan2004@gmail.com",
+    "Password": "Turan1234"
+  }
+]
